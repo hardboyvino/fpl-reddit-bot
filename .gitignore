@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore Python btyecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore sensitive configuration or prediction files
+config.py
+*.env
+*.csv
+*.json
