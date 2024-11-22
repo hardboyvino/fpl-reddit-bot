@@ -13,3 +13,4 @@ config.py
 *.env
 *.csv
 *.json
+hacks.txt
